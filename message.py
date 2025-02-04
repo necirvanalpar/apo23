@@ -244,4 +244,4 @@ if __name__ == "__main__":
 
     url = input(f'{B}Hedef Sitenin URL veya IP Adresi Girin: ')
 
-    baglanti()    baglanti()
+    baglanti()
